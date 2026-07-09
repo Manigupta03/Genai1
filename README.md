@@ -1,10 +1,10 @@
-# 🤖 GenAI Week 1
+# GenAI Week 1
 
 This repository contains my Week 1 GenAI learning projects. The goal is to understand how Large Language Models (LLMs) work by making API calls and building a simple terminal chatbot.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Gen-AI/
@@ -19,7 +19,7 @@ Gen-AI/
 
 ---
 
-## 🚀 Features
+## Features
 
 ### Project 1: First API Call
 - Connects to the Google Gemini API
@@ -34,7 +34,7 @@ Gen-AI/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python 3.11
 - Google Gemini API
@@ -42,7 +42,7 @@ Gen-AI/
 
 ---
 
-## 📦 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -89,7 +89,7 @@ GEMINI_API_KEY=YOUR_API_KEY
 
 ---
 
-## ▶️ Run the Projects
+## Run the Projects
 
 ### First API Call
 
